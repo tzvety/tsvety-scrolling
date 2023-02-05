@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 393c593ecfcd891caf271d3fd9ff79a51edf825a Tsvety <tsvetana.nikova@blackbox-co.com> 1675617704 +0000	commit (initial): Init
+393c593ecfcd891caf271d3fd9ff79a51edf825a 592b76048a6902d2822e62c8aa71ea82de70459c Tsvety <tsvetana.nikova@blackbox-co.com> 1675626769 +0000	commit: adding snapcraft.yaml
+592b76048a6902d2822e62c8aa71ea82de70459c 05e77875995cca3527cde4b305697fd318bbc22c Tsvety <tsvetana.nikova@blackbox-co.com> 1675630352 +0000	checkout: moving from master to main
+05e77875995cca3527cde4b305697fd318bbc22c 592b76048a6902d2822e62c8aa71ea82de70459c Tsvety <tsvetana.nikova@blackbox-co.com> 1675630427 +0000	checkout: moving from main to master
+592b76048a6902d2822e62c8aa71ea82de70459c 592b76048a6902d2822e62c8aa71ea82de70459c Tsvety <tsvetana.nikova@blackbox-co.com> 1675630449 +0000	checkout: moving from master to master
+592b76048a6902d2822e62c8aa71ea82de70459c 05e77875995cca3527cde4b305697fd318bbc22c Tsvety <tsvetana.nikova@blackbox-co.com> 1675630452 +0000	checkout: moving from master to main
