@@ -16,7 +16,7 @@ slots:
 apps:
   tsvety-scrolling:
     command: tsvety-scrolling
-    extensions: [flutter-master]
+    extensions: [flutter-beta]
     plugs:
       - network
     slots:
