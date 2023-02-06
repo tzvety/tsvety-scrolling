@@ -1,4 +1,0 @@
-#Sat Feb 04 19:03:28 GMT 2023
-base.0=/Users/darklady/Developer/my_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

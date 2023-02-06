@@ -1,4 +1,0 @@
-#Sun Feb 05 16:28:38 GMT 2023
-base.0=/Users/darklady/Developer/my_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
